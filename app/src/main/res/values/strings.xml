@@ -1,0 +1,7 @@
+<resources>
+    <string name="image" translatable="false">image</string>
+    <string name="maylinda" translatable="false">maylinda</string>
+    <string name="tulis_note" translatable="false">Tulis Note</string>
+    <string name="masukkan_judul" translatable="false">Masukkan Judul</string>
+    <string name="app_name" translatable="false">My Note</string>
+</resources>
